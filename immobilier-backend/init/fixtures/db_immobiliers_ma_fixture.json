@@ -1,0 +1,562 @@
+[
+    {
+        "model": "immobilier.immobilier",
+        "id": "1",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192525/Appart-104m2-près-de-Victor-hugo-à-guéliz.html",
+            "title": "Appart 104m2 près de victor hugo à guéliz",
+            "city": "Marrakech",
+            "price": 1250000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/1350432.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "2",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192506/Appart-piscine-entre-mc-do-Marjane-madame-plaza.html",
+            "title": "Appart piscine entre mc do marjane madame plaza",
+            "city": "Marrakech",
+            "price": 500000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/2060740.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "3",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192492/Studio-73m2-terrasse-piscine-près-jardin-Majorelle.html",
+            "title": "Studio 73m2 terrasse piscine près jardin majorelle",
+            "city": "Marrakech",
+            "price": 1100000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/8676058.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "4",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192489/Appart-83m2-près-clinique-chifaa-à-guéliz.html",
+            "title": "Appart 83m2 près clinique chifaa à guéliz",
+            "city": "Marrakech",
+            "price": 954500.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/9420352.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "5",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9074948/PROCHE-LYCEE-DESCARTES-APPART-118M2-EN-VENTE.html",
+            "title": "Proche lycee descartes appart 118m2 en vente",
+            "city": "Rabat / Agdal",
+            "price": 2200000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/2203023.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "6",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192453/Appart-151m2-avec-grande-terrasse-à-allal-fassi.html",
+            "title": "Appart 151m2 avec grande terrasse à allal fassi",
+            "city": "Marrakech",
+            "price": 860000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/1224388.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "7",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192451/Appartement-meublé-68m²-à-hay-izdihar.html",
+            "title": "Appartement meublé 68m² à hay izdihar",
+            "city": "Marrakech",
+            "price": 550000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/8590610.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "8",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192446/Appart-3ch-salon-127m2-quartier-Semlalia.html",
+            "title": "Appart 3ch salon 127m2 quartier semlalia",
+            "city": "Marrakech",
+            "price": 1200000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/2381340.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "9",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9115244/Appartement-a-cote-hôpital-moh-6.html",
+            "title": "Appartement a cote hôpital moh 6",
+            "city": "Marrakech / Amerchich",
+            "price": 300000.0,
+            "thumbnail_url": "http://www.energyfit.com.mk/wp-content/plugins/ap_background/images/default/default_large.png",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "10",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9179463/Grd-appartement-a-allal-fasi.html",
+            "title": "Grd appartement a allal fasi",
+            "city": "Marrakech / Daoudiat",
+            "price": 650000.0,
+            "thumbnail_url": "http://www.energyfit.com.mk/wp-content/plugins/ap_background/images/default/default_large.png",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "11",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9155723/Grand-appartement-à-fadl.html",
+            "title": "Grand appartement à fadl",
+            "city": "Marrakech / Autre quartier",
+            "price": 650000.0,
+            "thumbnail_url": "http://www.energyfit.com.mk/wp-content/plugins/ap_background/images/default/default_large.png",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "12",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192413/Appart-à-vendre.html",
+            "title": "Appart à vendre",
+            "city": "Casablanca / 2 Mars",
+            "price": 120.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/8625216.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "13",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192310/VENTE-DUPLEX-DE-338M2-FRONT-MER-AZLA-BEACH.html",
+            "title": "Vente duplex de 338m2 front mer azla beach",
+            "city": "Tetouan",
+            "price": 1600000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/9004777.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "14",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192307/VENTE-APPARTEMENT-DE-95M²-A-AZLA-BEACH.html",
+            "title": "Vente appartement de 95m² a azla beach",
+            "city": "Tetouan",
+            "price": 650000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/7970789.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "15",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192306/VENTE-APPARTEMENT-NEUF-112M²-RDJ-A-AZLA-BEACH.html",
+            "title": "Vente appartement neuf 112m² rdj a azla beach",
+            "city": "Tetouan",
+            "price": 760000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/7410068.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "16",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192303/VENTE-APPARTEMENT-DE-169M2-AUX-HÔPITAUX.html",
+            "title": "Vente appartement de 169m2 aux hÔpitaux",
+            "city": "Casablanca / Hôpitaux",
+            "price": 1850000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/3685716.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "17",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192301/VENTE-APPART-DE-140M²-VUE-SUR-MER-A-ELHANK.html",
+            "title": "Vente appart de 140m² vue sur mer a elhank",
+            "city": "Casablanca / Bourgogne",
+            "price": 2400000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/4469109.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "18",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192295/VENTE-APPARTEMENT-202M²-AU-MAARIF-EXTENSION.html",
+            "title": "Vente appartement 202m² au maarif extension",
+            "city": "Casablanca / Maarif",
+            "price": 2100000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/7710204.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "19",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192291/VENTE-APPARTEMENT-119M2-A-CITE-PLATEAUX.html",
+            "title": "Vente appartement 119m2 a cite plateaux",
+            "city": "Casablanca / Maarif Extension",
+            "price": 1350000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/1992555.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "20",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192288/VENTE-APPARTEMENT-DE-100M²-BD-GHANDI-CIL.html",
+            "title": "Vente appartement de 100m² bd ghandi cil",
+            "city": "Casablanca / C.I.L",
+            "price": 1180000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/1740486.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "21",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192284/VENTE-APPARTEMENT-71M2-AU-MAARIF-EXTENSION.html",
+            "title": "Vente appartement 71m2 au maarif extension",
+            "city": "Casablanca / Maarif Extension",
+            "price": 850000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/5197099.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "22",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192277/Appartement-addoha-1-ain-sebaa-casablanca.html",
+            "title": "Appartement addoha 1 ain sebaa casablanca",
+            "city": "Casablanca / Ain Sebaa",
+            "price": 500000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/8411240.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "23",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9186114/Appartement-de-96m.html",
+            "title": "Appartement de 96m",
+            "city": "Casablanca / Sidi Maarouf",
+            "price": 850000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/8960856.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "24",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9097588/appartement-situe-ocean-moukawam.html",
+            "title": "Appartement situe ocean moukawam",
+            "city": "Rabat / Agdal",
+            "price": 9500000.0,
+            "thumbnail_url": "http://www.energyfit.com.mk/wp-content/plugins/ap_background/images/default/default_large.png",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "25",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192141/Appartement-A-Vendre-sur-Mers-Sultan.html",
+            "title": "Appartement a vendre sur mers sultan",
+            "city": "Casablanca / Mers Sultan",
+            "price": 0.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/5680654.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "26",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192114/appart-standing-de-80-m²sur-parc.html",
+            "title": "Appart standing de 80 m²sur parc",
+            "city": "Mohammedia",
+            "price": 850000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/8483429.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "27",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9113515/Appartement-à-vendre-à-résidence-les-majorelles.html",
+            "title": "Appartement à vendre à résidence les majorelles",
+            "city": "Casablanca",
+            "price": 1200000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/6185901.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "28",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192099/Magnifique-appartement-de-75-m-en-vente-Ain-borja.html",
+            "title": "Magnifique appartement de 75 m en vente ain borja",
+            "city": "Casablanca / Ain Borja",
+            "price": 670000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/9924862.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "29",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9192024/Appartement-a-vendre.html",
+            "title": "Appartement a vendre",
+            "city": "Tanger / Ziatene",
+            "price": 320000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/8695686.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "30",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9095237/شقة-84م-من-طابقين-و-سطح-للبيع.html",
+            "title": "شقة 84م من طابقين و سطح للبيع",
+            "city": "Casablanca / Sidi Moumen",
+            "price": 900000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/8598821.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "31",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9191855/appartement-a-vendre-a-quartier-Gautier.html",
+            "title": "Appartement a vendre a quartier gautier",
+            "city": "Casablanca / Gauthier",
+            "price": 760000.0,
+            "thumbnail_url": "http://www.energyfit.com.mk/wp-content/plugins/ap_background/images/default/default_large.png",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "32",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9191838/Appartement-de-type-T4-à-Kenitra.html",
+            "title": "Appartement de type t4 à kenitra",
+            "city": "Kénitra",
+            "price": 630000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/1932989.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "33",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9191750/Adarissa-App-80-m2-ensoleillé-et-aménagé.html",
+            "title": "Adarissa app 80 m2 ensoleillé et aménagé",
+            "city": "Fès",
+            "price": 0.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/9407266.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "34",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9191623/شقة-لتنازل-باملاق-البرنوصي-الطابق-الاول.html",
+            "title": "شقة لتنازل باملاق البرنوصي الطابق الاول",
+            "city": "Casablanca",
+            "price": 0.0,
+            "thumbnail_url": "http://www.energyfit.com.mk/wp-content/plugins/ap_background/images/default/default_large.png",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "35",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9089667/Appartement-centre-Casablanca.html",
+            "title": "Appartement centre casablanca",
+            "city": "Casablanca / Centre ville",
+            "price": 1340000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/8412518.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "36",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9175863/Appartement-de-4-pièces-Casablanca.html",
+            "title": "Appartement de 4 pièces casablanca",
+            "city": "Casablanca / Centre ville",
+            "price": 11900.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/9950711.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "37",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9191441/Appartement-à-vendre-à-temara.html",
+            "title": "Appartement à vendre à temara",
+            "city": "Temara",
+            "price": 590000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/3430258.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "38",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9191430/شقة-للبيع-بعين-السبع-50متر.html",
+            "title": "شقة للبيع بعين السبع 50متر",
+            "city": "Casablanca / Ain Sebaa",
+            "price": 350000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/9747281.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "39",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9191379/Appart-rdc-90m²-3pieces-oulad-mtaa-guich.html",
+            "title": "Appart rdc 90m² 3pieces oulad mtaa guich",
+            "city": "Temara",
+            "price": 680000.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/6368327.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "40",
+        "fields": {
+            "url": "https://www.marocannonces.com/categorie/315/Appartements/annonce/9191378/شقة-للبيع-بموقع-ممتاز-بطريق-عين-الشقف.html",
+            "title": "شقة للبيع بموقع ممتاز بطريق عين الشقف",
+            "city": "Fès",
+            "price": 0.0,
+            "thumbnail_url": "https://www.marocannonces.com/user_images/315/4867179.jpg",
+            "type": "appartement",
+            "transaction": "vente",
+            "source": "marocannonces"
+        }
+    }
+]

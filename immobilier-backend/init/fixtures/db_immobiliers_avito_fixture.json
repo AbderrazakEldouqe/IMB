@@ -1,0 +1,492 @@
+[
+    {
+        "model": "immobilier.immobilier",
+        "id": "1",
+        "fields": {
+            "url": "https://www.avito.ma/fr/sidi_bernoussi/appartements/شقق_عالية_الجودة_ــ_البرنوصي_1_ــ_الدارالبيضاء_45000289.htm",
+            "title": "شقق عالية الجودة ــ البرنوصي 1 ــ الدارالبيضاء",
+            "city": "Casablanca",
+            "price": 400000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10022346612.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "2",
+        "fields": {
+            "url": "https://www.avito.ma/fr/autre_secteur/appartements/شقق_عالية_الجودة_ــ_رياض_الرحمة_1_ــ_الدارالبيضاء_44983354.htm",
+            "title": "شقق عالية الجودة ــ رياض الرحمة 1 ــ الدارالبيضاء",
+            "city": "Casablanca",
+            "price": 370000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10022351576.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "3",
+        "fields": {
+            "url": "https://www.avito.ma/fr/el_mansouria/appartements/Appartement_94m²_en_Vente_à_El_Mansouria_50599875.htm",
+            "title": "Appartement 94m² en Vente à El Mansouria",
+            "city": "El Mansouria",
+            "price": 913000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10071825995.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "4",
+        "fields": {
+            "url": "https://www.avito.ma/fr/autre_secteur/appartements/Appartement_80m²_orientation_Sud_à_Mehdia__50776331.htm",
+            "title": "Appartement 80m² orientation Sud à Mehdia",
+            "city": "Kénitra",
+            "price": 410000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10073743423.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "5",
+        "fields": {
+            "url": "https://www.avito.ma/fr/sidi_bernoussi/appartements/appartement__50346156.htm",
+            "title": "appartement",
+            "city": "Casablanca",
+            "price": 880000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10068818187.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "6",
+        "fields": {
+            "url": "https://www.avito.ma/fr/saidia/appartements/Appartement_66m²_en_Vente_à_Saidia_50869588.htm",
+            "title": "Appartement 66m² en Vente à Saidia",
+            "city": "Saidia",
+            "price": 0.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074861166.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "7",
+        "fields": {
+            "url": "https://www.avito.ma/fr/ain_chock/appartements/دار_بعين_شق_تمن_جد_قابل_للتفاهم_50869582.htm",
+            "title": "دار بعين شق تمن جد قابل للتفاهم",
+            "city": "Casablanca",
+            "price": 500000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074862839.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "8",
+        "fields": {
+            "url": "https://www.avito.ma/fr/martil/appartements/Bel_Appartement_meublé_de_82m²_en_Vente_à_Martil_50647495.htm",
+            "title": "Bel Appartement meublé de 82m² en Vente à Martil",
+            "city": "Martil",
+            "price": 1026000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10072351326.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "9",
+        "fields": {
+            "url": "https://www.avito.ma/fr/martil/appartements/CHIC_Appartement__de_72m²_à_vendre_à_Martil_50649865.htm",
+            "title": "CHIC Appartement  de 72m² à vendre à Martil",
+            "city": "Martil",
+            "price": 1045000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10072377460.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "10",
+        "fields": {
+            "url": "https://www.avito.ma/fr/el_alia/appartements/Appartement_neuf_Résidence_fermer__50835134.htm",
+            "title": "Appartement neuf Résidence fermer",
+            "city": "Mohammedia",
+            "price": 490000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074456501.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "11",
+        "fields": {
+            "url": "https://www.avito.ma/fr/saidia/appartements/Appartement_meublé_50m²_en_Vente_à_Saidia_50869578.htm",
+            "title": "Appartement meublé 50m² en Vente à Saidia",
+            "city": "Saidia",
+            "price": 470000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074860919.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "12",
+        "fields": {
+            "url": "https://www.avito.ma/fr/martil/appartements/Bel_Appartement__de_62m²_en_Vente_à_Martil_50652826.htm",
+            "title": "Bel Appartement  de 62m² en Vente à Martil",
+            "city": "Martil",
+            "price": 1007900.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10072390146.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "13",
+        "fields": {
+            "url": "https://www.avito.ma/fr/centre_ville/appartements/ggcff_50869573.htm",
+            "title": "ggcff",
+            "city": "Temara",
+            "price": 650000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074863107.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "14",
+        "fields": {
+            "url": "https://www.avito.ma/fr/autre_secteur/appartements/Appartement__de_luxe_a_au_centre_skhirat_50482654.htm",
+            "title": "Appartement  de luxe a au centre skhirat",
+            "city": "Skhirat",
+            "price": 450000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10070505975.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "15",
+        "fields": {
+            "url": "https://www.avito.ma/fr/belvedere/appartements/UNIQUE_Opportunité__81m2_près_de_Emile_Zola_43235183.htm",
+            "title": "UNIQUE Opportunité- 81m2 près de Emile Zola",
+            "city": "Casablanca",
+            "price": 980000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10045948754.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "16",
+        "fields": {
+            "url": "https://www.avito.ma/fr/maarif/appartements/appartement_rénové__proche_boulevard_Ghandi_50799778.htm",
+            "title": "appartement rénové  proche boulevard Ghandi",
+            "city": "Casablanca",
+            "price": 2200000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074050436.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "17",
+        "fields": {
+            "url": "https://www.avito.ma/fr/quartier_de_locean/appartements/aprtms_avendre_à_l_océan__50869553.htm",
+            "title": "aprtms avendre à l'océan",
+            "city": "Rabat",
+            "price": 460000.0,
+            "thumbnail_url": "http://www.energyfit.com.mk/wp-content/plugins/ap_background/images/default/default_large.png",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "18",
+        "fields": {
+            "url": "https://www.avito.ma/fr/dakhla/appartements/Appartement_Moyen_Standing_à_vendre_49832345.htm",
+            "title": "Appartement Moyen Standing à vendre",
+            "city": "Dakhla",
+            "price": 790000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10063101204.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "19",
+        "fields": {
+            "url": "https://www.avito.ma/fr/wifak/appartements/Appartement_en_Vente_à_wifak__50110009.htm",
+            "title": "Appartement en Vente à wifak",
+            "city": "Temara",
+            "price": 580000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10065865040.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "20",
+        "fields": {
+            "url": "https://www.avito.ma/fr/hautfounty/appartements/Bel_Appartement_Neuf_à_haut_founty_Agadir_50614399.htm",
+            "title": "Bel Appartement Neuf à haut founty Agadir",
+            "city": "Agadir",
+            "price": 850000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10071979677.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "21",
+        "fields": {
+            "url": "https://www.avito.ma/fr/dakhla/appartements/Appartement_à_Dakhla_49832344.htm",
+            "title": "Appartement à Dakhla",
+            "city": "Dakhla",
+            "price": 250000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10063102327.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "22",
+        "fields": {
+            "url": "https://www.avito.ma/fr/hay_dakhla/appartements/Bel_appartement_neuf_à_Hay_Dakhla_Agadir_49645099.htm",
+            "title": "Bel appartement neuf à Hay Dakhla Agadir",
+            "city": "Agadir",
+            "price": 750000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10069016642.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "23",
+        "fields": {
+            "url": "https://www.avito.ma/fr/had_soualem/appartements/super_appartement_128m_had_soualem__48056440.htm",
+            "title": "super appartement 128m had soualem",
+            "city": "Had Soualem",
+            "price": 590000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10058105484.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "24",
+        "fields": {
+            "url": "https://www.avito.ma/fr/roches_noires/appartements/Vente_appartement_à_Roches_Noires__50869528.htm",
+            "title": "Vente appartement à Roches Noires",
+            "city": "Casablanca",
+            "price": 0.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074860224.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "25",
+        "fields": {
+            "url": "https://www.avito.ma/fr/diour_jamaa/appartements/Appartement_44m²_en_Vente_à_Rabat_50860884.htm",
+            "title": "Appartement 44m² en Vente à Rabat",
+            "city": "Rabat",
+            "price": 800000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074737890.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "26",
+        "fields": {
+            "url": "https://www.avito.ma/fr/autre_secteur/appartements/Bel_Appartement_au_centre_de_skhirat_50463531.htm",
+            "title": "Bel Appartement au centre de skhirat",
+            "city": "Skhirat",
+            "price": 390000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10073558774.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "27",
+        "fields": {
+            "url": "https://www.avito.ma/fr/hassania_1/appartements/appartement_duplex_à_vendre_50600479.htm",
+            "title": "appartement duplex à vendre",
+            "city": "Mohammedia",
+            "price": 900000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10071835794.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "28",
+        "fields": {
+            "url": "https://www.avito.ma/fr/malabata/appartements/Appartement_vue_sur_mer_106_m_malabata_للبيع_48914595.htm",
+            "title": "Appartement vue sur mer 106 m malabata للبيع",
+            "city": "Tanger",
+            "price": 2800000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10062579501.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "29",
+        "fields": {
+            "url": "https://www.avito.ma/fr/autre_secteur/appartements/Appartement_ideal_au_centre_de_Skhirate__50447301.htm",
+            "title": "Appartement ideal au centre de Skhirate",
+            "city": "Skhirat",
+            "price": 395000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074522513.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "30",
+        "fields": {
+            "url": "https://www.avito.ma/fr/saidia/appartements/Appartement_67m²_en_Vente_à_Saidia_50869503.htm",
+            "title": "Appartement 67m² en Vente à Saidia",
+            "city": "Saidia",
+            "price": 0.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074860152.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "31",
+        "fields": {
+            "url": "https://www.avito.ma/fr/hay_mohammadi/appartements/Très_bel_appart_77m²_1ère_ètage__50617765.htm",
+            "title": "Très bel appart 77m² 1ère ètage",
+            "city": "Agadir",
+            "price": 0.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10071481428.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "32",
+        "fields": {
+            "url": "https://www.avito.ma/fr/belvedere/appartements/appartement_50869470.htm",
+            "title": "appartement",
+            "city": "Casablanca",
+            "price": 12000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074858232.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "33",
+        "fields": {
+            "url": "https://www.avito.ma/fr/berrechid/appartements/Appartement__50869468.htm",
+            "title": "Appartement",
+            "city": "Berrechid",
+            "price": 310000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074858889.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "34",
+        "fields": {
+            "url": "https://www.avito.ma/fr/ain_borja/appartements/Bel_appart_3ch_deux_terasses_49450778.htm",
+            "title": "Bel appart 3ch deux terasses",
+            "city": "Casablanca",
+            "price": 960000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10058839761.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    },
+    {
+        "model": "immobilier.immobilier",
+        "id": "35",
+        "fields": {
+            "url": "https://www.avito.ma/fr/el_mansouria/appartements/Appartement_62m²_en_Vente_à_El_Mansouria_50869456.htm",
+            "title": "Appartement 62m² en Vente à El Mansouria",
+            "city": "El Mansouria",
+            "price": 740000.0,
+            "thumbnail_url": "https://content.avito.ma/mob_320/10/10074859691.jpg",
+            "type": "villa",
+            "transaction": "location",
+            "source": "avito"
+        }
+    }
+]

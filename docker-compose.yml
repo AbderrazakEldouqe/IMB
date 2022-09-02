@@ -1,0 +1,61 @@
+version: "3.9"
+
+services:
+  mongodb:
+    image: mongo:latest
+    volumes:
+      - E:\MongoDB\Data:/data/db
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME:
+      MONGO_INITDB_ROOT_PASSWORD:
+      MONGO_INITDB_DATABASE: mongo_db
+      MONGO_INITDB_USERNAME:
+      MONGO_INITDB_PASSWORD:
+    ports:
+      - 27017:27017
+
+  es:
+    image: elasticsearch:7.14.0
+    environment:
+      - discovery.type=single-node
+    ports:
+      - "9200:9200"
+
+  backend:
+    build:
+      context: ./immobilier-backend/
+      dockerfile: Dockerfile
+    restart: always
+    command: >
+      sh -c "./wait_to_start.sh &&
+             python manage.py wait_for_db &&
+             python manage.py db_indexing &&
+             python manage.py runserver 0.0.0.0:8000"
+    volumes:
+      - ./immobilier-backend/:/code
+    ports:
+      - 8000:8000
+    depends_on:
+      - mongodb
+      - es
+    links:
+      - mongodb
+      - es:es
+    environment:
+      - WAIT_COMMAND=[ $$(curl --write-out %{http_code} --silent --output /dev/null http://es:9200/_cat/health?h=st) = 200 ]
+      - WAIT_SLEEP= 2
+      - WAIT_LOOPS= 10
+
+  frontend:
+    restart: always
+    command: npm start
+    container_name: frontend
+    build:
+      context: ./immobilier-frontend/
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    stdin_open: true
+    depends_on:
+      - backend
